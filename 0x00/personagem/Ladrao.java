@@ -1,4 +1,4 @@
-package org.example;
+
 
 public class Ladrao extends Personagem{
     public Ladrao(String nome, int inteligencia, int forca, int vigor, int resistencia, int destreza) {
