@@ -1,4 +1,4 @@
-package org.example;
+
 
 public abstract class Personagem {
     private String nome;
