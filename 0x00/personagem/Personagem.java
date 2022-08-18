@@ -79,7 +79,7 @@ public abstract class Personagem {
 
     @Override
     public String toString() {
-        return String.format("Personagem { nome = %s, tipo = %s, inteligencia = %d, forca = %d, vigor = %d, resistencia = %d, destreza = %d, dano ataque = %.2f } ",
+        return String.format("Personagem { nome = %s, tipo = %s, inteligencia = %d, forca = %d, vigor = %d, resistencia = %d, destreza = %d, dano ataque = %.2f }",
                 this.nome, this.tipoPersonagem, this.inteligencia, this.forca, this.vigor, this.resistencia, this.destreza, this.getDanoAtaque() );
     }
 
