@@ -6,7 +6,7 @@ public class SalarioService {
         return resultado;
     }
 
-    public java.util.UUID getUuid(){
+    public UUID getUuid(){
         return calculador.getUuid();
     }
 
