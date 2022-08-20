@@ -1,0 +1,7 @@
+O que é Arquitetura Hexagonal e por quem ela foi criada ?
+Criada pelo Alistair Cockburn, nos anos 90, a Arquitetura Hexagonal suegiu para auxiliar reusabilidade de código, alta coesão, baixo acoplamento, independência de tecnologia e que são mais fáceis de serem testados. Seus benefícios incluem: solução de serviços externos independentes, possibilita adiar algumas decisões técnicas, criação e substituição de adaptadores, fácil de testar a aplicação
+e tecnologias fáceis de trocar.
+Mas, se você está desenvolvendo uma projeto pequeno, que não terá uma grande escalabilidade e irá manter a sua linguagem de programação desde o ínicio, a Arquitetura Hexagonal talvez não seja para você. Assim como a Arquitetura Hexagonal, a Clean Architecture tem como objetivo ser independente de frameworks, facilmente testável e independentemente da interface do usuário, mas segue a Onion Architecture. Talvez seja uma boa substituição. 
+
+
+
