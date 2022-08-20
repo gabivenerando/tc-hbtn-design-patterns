@@ -3,7 +3,7 @@ public class NaveEspacialDecorator extends NaveEspacial{
 
     public NaveEspacialDecorator(NaveEspacial naveEspacial) {
         super(naveEspacial.getSaude(), naveEspacial.getAtaque());
-        this.naveEspacial = naveEspacial;
+    
     }
 
     @Override
